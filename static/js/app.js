@@ -3,7 +3,7 @@ const username = "admin";
 function renderPost(post) {
     const template = document
         .getElementById("post-template")
-        .content.cloneNode(True);
+        .content.cloneNode(true);
     template.querySelector(".username").innerText = post.username;
     template.querySelector(".message").innerText = post.message;
     document.getElementById("feed").appendChild(template);

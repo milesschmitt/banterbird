@@ -1,6 +1,34 @@
 [
     {
         "username": "admin",
+        "message": "miles"
+    },
+    {
+        "username": "admin",
+        "message": "miles"
+    },
+    {
+        "username": "admin",
+        "message": "miles"
+    },
+    {
+        "username": "admin",
+        "message": ""
+    },
+    {
+        "username": "admin",
+        "message": "diddy"
+    },
+    {
+        "username": "admin",
+        "message": "diddy"
+    },
+    {
+        "username": "admin",
+        "message": "diddy"
+    },
+    {
+        "username": "admin",
         "message": "Welcome team 10!"
     },
     {
@@ -9,6 +37,6 @@
     },
     {
         "username": "bob",
-        "message": "Just joined. Let’s tweet!"
+        "message": "Just joined. Let\u00e2\u20ac\u2122s tweet!"
     }
 ]

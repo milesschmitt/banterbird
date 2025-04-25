@@ -1,0 +1,27 @@
+/* style.css */
+
+body {
+    font-family: sans-serif;
+    background-color: #84adf0;
+    padding: 20px;
+}
+p {
+    color:rgb(255, 255, 255);
+}
+
+h1 {
+    font-family: Georgia ;
+    font-size: 75px ;
+}
+button {
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 238);
+    font-size: 20px;
+}
+
+#feed {
+    margin-top: 30px;
+    border: 4px solid rgb(255, 0, 238);
+    padding-left: 20px;
+
+}

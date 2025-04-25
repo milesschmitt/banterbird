@@ -1,42 +1,14 @@
 [
     {
         "username": "admin",
-        "message": "miles"
+        "message": "yes"
+    },
+    {
+        "username": "admin",
+        "message": "hello"
     },
     {
         "username": "admin",
         "message": "miles"
-    },
-    {
-        "username": "admin",
-        "message": "miles"
-    },
-    {
-        "username": "admin",
-        "message": ""
-    },
-    {
-        "username": "admin",
-        "message": "diddy"
-    },
-    {
-        "username": "admin",
-        "message": "diddy"
-    },
-    {
-        "username": "admin",
-        "message": "diddy"
-    },
-    {
-        "username": "admin",
-        "message": "Welcome team 10!"
-    },
-    {
-        "username": "chad",
-        "message": "Excited to be here!"
-    },
-    {
-        "username": "bob",
-        "message": "Just joined. Let\u00e2\u20ac\u2122s tweet!"
     }
 ]

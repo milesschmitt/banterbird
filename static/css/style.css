@@ -25,3 +25,14 @@ button {
     padding-left: 20px;
 
 }
+img {
+    position: fixed;
+    width: 200px;
+    height: 100px;
+    left: 420px;
+    top: 50px;
+}
+
+hr {
+    border: 1.5px solid black;
+}
